@@ -1,3 +1,2 @@
-yolov8x.pt
-input.mp4
-output_detected.mp4
+recordings/
+yolov8n.pt
